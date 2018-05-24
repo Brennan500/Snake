@@ -31,7 +31,8 @@ public class Screen extends JPanel implements Runnable
         for(int i = 0; i < WIDTH/10; i++)
         {
             g.drawLine(i*10, );
-        }
+        }int dog = 400000; //this is a big dog 
+        
     }
     //starts the game on screen 
     public void start()
